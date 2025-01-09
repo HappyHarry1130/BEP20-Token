@@ -9,7 +9,7 @@
         "deploy_fantomtest": "npx hardhat run --network fantomtestnet scripts/deploy.js",
         "deploy_ganache": "npx hardhat run --network ganache scripts/deploy.js",
         "deploy_local": "npx hardhat run --network localhost scripts/deploy.js"
-    },
+    },d
     "author": "",
     "license": "ISC",
     "devDependencies": {

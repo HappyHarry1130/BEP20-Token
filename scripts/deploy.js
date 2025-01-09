@@ -4,7 +4,7 @@
 // When running the script with `npx hardhat run <script>` you'll find the Hardhat
 // Runtime Environment's members available in the global scope.
 const { ethers } = require("hardhat");
-
+s
 async function main() {
     // var [owner] = await ethers.getSigners();
     // let network = await owner.provider._networkPromise;

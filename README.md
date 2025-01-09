@@ -5,7 +5,7 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 ```Main function of this BEP20 contract is lock term.```
 
 Try running some of the following tasks:
-
+s
 ```shell
 npx hardhat accounts
 npx hardhat compile
